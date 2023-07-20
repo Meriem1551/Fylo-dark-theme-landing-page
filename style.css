@@ -50,7 +50,7 @@ header>ul>li:hover{
 }
 #background-image-desktop{
     position: relative;
-    top: 630px;
+    top: 670px;
     left: 0px;
     z-index: 0;
 }
@@ -60,7 +60,7 @@ header>ul>li:hover{
 main{
     position: relative;
     z-index: 100;
-    margin-top: -550px;
+    margin-top: -850px;
    
 }
 #first-container{
